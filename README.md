@@ -2,9 +2,7 @@
 
 Main is corresponding to AC version and the 4.1.2 apk package. 
 
-**&copy;2026 Michael Hertz (HEZ Group). Attribution is strictly required, Any reuse, modification, or derivative work must explicitly credit the original author. **
-
-**&copy;2026 何昕 (HEZ Group). 署名要求：任何形式的重用、修改或基於此項目的二次衍生，均必須明確標示原作者署名。**
+&copy;2026 Michael Hertz (HEZ Group). Attribution is strictly required, Any reuse, modification, or derivative work must explicitly credit the original author. 
 
 ## Introduction
 
