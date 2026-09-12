@@ -2,6 +2,10 @@
 
 Main is corresponding to AC version and the 4.1.2 apk package. 
 
+**&copy;2026 Michael Hertz (HEZ Group). Attribution is strictly required, Any reuse, modification, or derivative work must explicitly credit the original author. **
+
+**&copy;2026 何昕 (HEZ Group). 署名要求：任何形式的重用、修改或基於此項目的二次衍生，均必須明確標示原作者署名。**
+
 ## Introduction
 
 This is a software and hardware interactive central control system based on native Android development. The system supports importing configuration files to dynamically generate the operating interface. It features a built-in professional multi-channel audio mixer (supporting various playback modes such as primary/secondary audio and background music, alongside independent control and mixing of custom voice tracks).
