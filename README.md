@@ -2,8 +2,6 @@
 
 Main is corresponding to AC version and the 4.1.2 apk package. 
 
-Here is the generalized README file in English, followed by the Chinese translation for verification.
-
 ## Introduction
 
 This is a software and hardware interactive central control system based on native Android development. The system supports importing configuration files to dynamically generate the operating interface. It features a built-in professional multi-channel audio mixer (supporting various playback modes such as primary/secondary audio and background music, alongside independent control and mixing of custom voice tracks).
